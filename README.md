@@ -6,6 +6,9 @@
 
 https://sorcry.github.io/Sorcry/index.html
 
+Server 2
+https://sorcry.github.io/SorcryServer/index.html
+
 
 <!---
 Sorcry/Sorcry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
